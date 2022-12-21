@@ -18,7 +18,7 @@
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/shop">Shop</a></li>
                                 @if (Session::get('id') != null)
-                                <li><a>Acccount</a>
+                                <li><a>Account</a>
                                     <ul class="sub-menu">
                                         <li><a href="/cart">Cart</a></li>
                                         <li><a href="/history/{{ Session::get('id') }}">Transaction History</a></li>
