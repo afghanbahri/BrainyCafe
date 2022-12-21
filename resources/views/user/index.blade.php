@@ -12,7 +12,7 @@
 							<p class="subtitle">Fresh & Original</p>
 							<h1>Refreshing Coffee & Beverage For Everyone</h1>
 							<div class="hero-btns">
-								<a href="/shop" class="boxed-btn">Our Menu</a>
+								<a href="/shop" class="boxed-btn">Our Product</a>
 								<!-- <a href="#hot-menu" class="bordered-btn">Todays Fav's Menu</a> -->
 							</div>
 						</div>
