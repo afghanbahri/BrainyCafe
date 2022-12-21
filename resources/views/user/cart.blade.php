@@ -8,7 +8,7 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2 text-center">
 					<div class="breadcrumb-text">
-						<p>Fresh and Organic</p>
+						<p>ORIGINAL FROM INDONESIA</p>
 						<h1>Cart</h1>
 					</div>
 				</div>
@@ -89,7 +89,7 @@
 							</thead>
 							<tbody>
 								<tr class="total-data">
-									<td><strong>Total Barang: </strong></td>
+									<td><strong>Total Product: </strong></td>
 									<td>{{ $qtytot }}</td>
 								</tr>
 								<tr class="total-data">
