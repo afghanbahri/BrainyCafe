@@ -2134,7 +2134,7 @@ a.video-play-btn {
 }
 
 .feature-bg:after {
-  background-image: url(../img/feature-bg.jpg);
+  background-image: url(../img/buymax.png);
   position: absolute;
   right: 0;
   top: 0;
@@ -2150,15 +2150,19 @@ a.video-play-btn {
 }
 
 .team-bg-1 {
-  background-image: url(../img/team/team-1.jpeg);
+  background-image: url(../img/team/Afghan.jpeg);
 }
 
 .team-bg-2 {
-  background-image: url(../img/team/team-2.jpg);
+  background-image: url(../img/team/Nico.jpeg);
 }
 
 .team-bg-3 {
-  background-image: url(../img/team/team-3.jpeg);
+  background-image: url(../img/team/Rio.jpeg);
+}
+
+.team-bg-4 {
+  background-image: url(../img/team/Ariel.jpeg);
 }
 
 .team-bg {
