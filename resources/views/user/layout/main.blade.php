@@ -7,7 +7,7 @@
 	<meta name="description" content="Responsive Bootstrap4 Shop Template, Created by Imran Hossain from https://imransdesign.com/">
 
 	<!-- title -->
-	<title>Brainy Cafe | Home</title>
+	<title>KWU A3 | Home</title>
 
 	<!-- favicon -->
 	<link rel="shortcut icon" type="image/png" href="{{ asset('/user/assets/img/favicon.png') }}">
@@ -57,8 +57,6 @@
 	@include('user.layout.navbar')
 
 	@yield('content')
-
-	@include('user.layout.logo')
 
 	@include('user.layout.footer')
 	

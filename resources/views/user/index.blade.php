@@ -13,7 +13,7 @@
 							<h1>Refreshing Coffee & Beverage For Everyone</h1>
 							<div class="hero-btns">
 								<a href="/shop" class="boxed-btn">Our Menu</a>
-								<a href="#hot-menu" class="bordered-btn">Todays Fav's Menu</a>
+								<!-- <a href="#hot-menu" class="bordered-btn">Todays Fav's Menu</a> -->
 							</div>
 						</div>
 					</div>
@@ -82,89 +82,4 @@
 	</div>
 	<!-- end product section -->
 	@endif
-
-	<!-- testimonail-section -->
-	<div class="testimonail-section mt-150 mb-150">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 offset-lg-2 text-center">
-					<div class="section-title">	
-						<h3>What <span class="orange-text">they</span> said about us?</h3>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-10 offset-lg-1 text-center">
-					<div class="testimonial-sliders">
-						<div class="single-testimonial-slider">
-							<div class="client-avater">
-								<img src="user/assets/img/avaters/avatar1.png" alt="">
-							</div>
-							<div class="client-meta">
-								<h3>Aceng Sudrajat <span>Tukang Cuanki</span></h3>
-								<p class="testimonial-body">
-									"Ngopi disini enak banget, suasananya nyaman, ada hiburan musik, bisa request lagu koplo lagi. Saking enaknya ngopi disini saya sampai lupa jualan."
-								</p>
-								<div class="last-icon">
-									<i class="fas fa-quote-right"></i>
-								</div>
-							</div>
-						</div>
-						<div class="single-testimonial-slider">
-							<div class="client-avater">
-								<img src="user/assets/img/avaters/avatar2.jpg" alt="">
-							</div>
-							<div class="client-meta">
-								<h3>Tukiyem <span>Tukang marahin kurir</span></h3>
-								<p class="testimonial-body">
-									"Nongkrong disini enak banget loh ibu-ibu, bisa nongkrong sepuasanya sambil marahin kurir juga loh. Kalo marahin kurir disini kan bisa sambil ngopi, jadi kalo kesel tinggal siram aja pake kopi panas ya ibu-ibu."
-								</p>
-								<div class="last-icon">
-									<i class="fas fa-quote-right"></i>
-								</div>
-							</div>
-						</div>
-						<div class="single-testimonial-slider">
-							<div class="client-avater">
-								<img src="user/assets/img/avaters/avatar3.jpg" alt="">
-							</div>
-							<div class="client-meta">
-								<h3>Bedul <span>Gamers</span></h3>
-								<p class="testimonial-body">
-									"WiFi-nya kenceng ya gaes, enak banget buat main epep. Jajanannya juga murah-murah kok. Aku kalo kesini paling cuma beli air putih dong, terus main epep nyampe dicariin emak."
-								</p>
-								<div class="last-icon">
-									<i class="fas fa-quote-right"></i>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- end testimonail-section -->
-	
-	<!-- advertisement section -->
-	<div class="abt-section mb-150">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-6 col-md-12">
-					<div class="abt-bg">
-						<a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" class="video-play-btn popup-youtube"><i class="fas fa-play"></i></a>
-					</div>
-				</div>
-				<div class="col-lg-6 col-md-12">
-					<div class="abt-text">
-						<p class="top-sub">Since Year 2018</p>
-						<h2>We are <span class="orange-text">Brainy</span></h2>
-						<p>Brainy Cafe is a cool place to spend time with the people closest to you. We provide the best drinks made by our experienced bartenders.</p>
-						<a href="/about" class="boxed-btn mt-4">Know More</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- end advertisement section -->
-
 	@endsection
