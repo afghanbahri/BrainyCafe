@@ -39,7 +39,7 @@
                     class="navbar navbar-expand-lg blur border-radius-xl top-0 z-index-3 shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
                     <div class="container-fluid ps-2 pe-0">
                         <a class="navbar-brand font-weight-bolder ms-lg-0 ms-3 " href="/login">
-                            Brainy Cafe | Login Area
+                            KWU A3   | Login Area
                         </a>
                     </div>
                 </nav>
@@ -49,7 +49,7 @@
     </div>
     <main class="main-content  mt-0">
         <div class="page-header align-items-start min-vh-100"
-            style="background-image: url('https://unsplash.com/photos/6VhPY27jdps/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8N3x8Y29mZmVlfHwwfHx8fDE2NDI0ODE0NDQ&force=true');">
+            style="background-image: url('{{ asset('/user/assets/img/hero-bg.jpg') }}');">
             <span class="mask bg-gradient-dark opacity-6"></span>
             <div class="container my-auto">
                 <div class="row">
@@ -108,7 +108,7 @@
                                 © <script>
                                     document.write(new Date().getFullYear())
                                 </script>
-                                Brainy Cafe Dev Team
+                                A3 Dev Team
                             </div>
                         </div>
                         <div class="col-12 col-md-6">
