@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2 text-center">
                 <div class="breadcrumb-text">
-                    <p>Fresh and Organic</p>
+                    <p>ORIGINAL FROM INDONESIA</p>
                     <h1>Check Out Product</h1>
                 </div>
             </div>

@@ -39,7 +39,7 @@
                     class="navbar navbar-expand-lg blur border-radius-xl top-0 z-index-3 shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
                     <div class="container-fluid ps-2 pe-0">
                         <a class="navbar-brand font-weight-bolder ms-lg-0 ms-3 " href="/login">
-                            KWU A3   | Login Area
+                            BUYMAXCO | Login Area
                         </a>
                     </div>
                 </nav>
@@ -108,7 +108,7 @@
                                 © <script>
                                     document.write(new Date().getFullYear())
                                 </script>
-                                A3 Dev Team
+                                KWU A3 Dev Team
                             </div>
                         </div>
                         <div class="col-12 col-md-6">

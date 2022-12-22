@@ -21,7 +21,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('/admin/assets/img/apple-icon.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('/admin/assets/img/favicon.png') }}">
     <title>
-        Brainy Cafe | {{ $title }}
+        BUYMAXCO | {{ $title }}
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css"
